@@ -10,7 +10,7 @@ export default function AboutPage() {
         </p>
         <p>
           I could keep going on and on about my life but I can guarantee that you
-          will be bored in the end. So I'll just end it right here
+          will be bored in the end. So  just end it right here
         </p>
       </div>
     );

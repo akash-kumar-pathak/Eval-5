@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const github = () => {
+const Github = () => {
   const [githubInfo, setGithubInfo] = useState({});
 
   useEffect(() => {
@@ -26,4 +26,4 @@ const github = () => {
   );
 };
 
-export default github;
+export default Github;

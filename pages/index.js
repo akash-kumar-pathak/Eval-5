@@ -10,7 +10,7 @@ export default function IndexPage() {
             alt="Myprofileimage"
           />
           <div className="intro">
-            <h1>Hi, I'm AKASH KUMAR PATHAK</h1>
+            <h1> AKASH KUMAR PATHAK</h1>
             <p>I am a Front-end Developer</p>
           </div>
         </div>
